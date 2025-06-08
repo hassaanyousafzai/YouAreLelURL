@@ -15,8 +15,8 @@ A powerful chatbot that reads and analyzes content from multiple URLs, allowing 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Hassaanyousafzai/YouAreLel.git
-cd URL_Read_Chatbot
+git clone https://github.com/Hassaanyousafzai/YouAreLelURL.git
+cd YouAreLelURL
 ```
 
 2. Create a virtual environment and activate it:
