@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+downloads/
+
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# Project specific
+vector_store.pkl
+*.pkl
